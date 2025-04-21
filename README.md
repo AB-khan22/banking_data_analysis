@@ -46,3 +46,7 @@ Creating a new column named as Processing Fees for the column Fee Structure like
 
 #Summary
 ![summary](https://github.com/user-attachments/assets/da0a8cab-3b16-49b7-8746-31c157eadd23)
+
+#Conclusion –
+Empowered by the latest data visualization techniques, Power BI dashboards are among the most effective resources for using in banking sector. As outlined in this write-up, a banking  operations dashboard in Power BI can be developed with key banking related metrics and KPIs.
+
